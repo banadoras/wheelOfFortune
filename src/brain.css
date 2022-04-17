@@ -1,0 +1,65 @@
+.frame {
+  border: solid rgb(26, 17, 146) 0px;
+  padding: 50px;
+  background-color: rgb(100, 43, 95);
+  box-shadow: 1px 1px 7px 1px rgb(141, 141, 141);
+  border-radius: 10px;
+}
+
+.character {
+  border: solid black 1px;
+  display: inline-block;
+  margin: 5px;
+  padding: 10px 20px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  width: 40px;
+  height: 40px;
+  font-weight: bolder;
+  line-height: 40px;
+  font-size: 30px;
+  box-shadow: 3px 3px 4px rgb(43, 43, 43) inset;
+}
+
+.dash {
+  color: white;
+}
+
+.space {
+  border: solid black 0px;
+  display: block;
+  text-align: center;
+}
+
+.result {
+  padding: 20px;
+  font-weight: bolder;
+}
+
+.g-movie {
+  padding: 10px 5px;
+  display: block;
+  margin: auto;
+  width: 80%;
+  text-align: center;
+  font-size: x-large;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 1px 1px 7px 1px rgb(189, 188, 188);
+}
+
+.show-button {
+  background-color: rgb(100, 43, 95);
+  color: white;
+  padding: 5px 20px;
+  font-size: xx-large;
+  border: none;
+  box-shadow: 1px 1px 5px black;
+  border-radius: 5px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+p {
+  color: grey;
+}

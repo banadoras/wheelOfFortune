@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 90%;
+  margin: auto;
+}
+
+.header {
+  background-color: rgb(255, 232, 253);
+  margin: 0;
+  padding: 20px;
+}
+
+.reset {
+  background-color: rgb(100, 43, 95);
+  color: white;
+  padding: 5px 20px;
+  font-size: xx-large;
+  border: none;
+  box-shadow: 1px 1px 5px black;
+  border-radius: 5px;
+  margin: 10px;
+  cursor: pointer;
+}

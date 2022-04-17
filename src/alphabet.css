@@ -1,0 +1,24 @@
+.alphabet {
+  border: solid black 0px;
+  margin-top: 10px;
+}
+
+.c-alphabet {
+  border: solid black 0px;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  font-size: larger;
+  cursor: pointer;
+  width: 40px;
+  box-shadow: 1px 1px 5px grey;
+  font-size: xx-large;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.selected {
+  background-color: rgb(100, 43, 95);
+  pointer-events: none;
+  color: white;
+}
